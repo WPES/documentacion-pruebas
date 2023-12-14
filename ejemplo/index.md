@@ -4,9 +4,12 @@ Este es un texto de ejemplo con el que puedes jugar.
 
 Esto es una lista de números:
 
-1. uno
-2. dos
-3. tres
+1. Uno
+2. Dos 
+3. Tres
+4. Cuatro
+5. Cinco
+6. Seis
 
 Y una lista de ccoloes:
 
