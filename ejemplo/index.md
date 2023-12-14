@@ -8,10 +8,9 @@ Esto es una lista de números:
 2. Dos 
 3. Tres
 4. Cuatro
-5. Cinco
-6. Seis
 
-Y una lista de ccoloes:
+
+Y una lista de colores:
 
 - rojo
 - amarillo
