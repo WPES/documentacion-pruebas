@@ -15,6 +15,8 @@ Y una lista de colores:
 - rojo
 - amarillo
 - verde
+- azul
+- marrón
 
 ## ¡Practica!
 
