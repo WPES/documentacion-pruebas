@@ -8,6 +8,9 @@ Esto es una lista de números:
 2. Dos 
 3. Tres
 4. Cuatro
+5. cinco
+6. seis
+7. siete
 
 
 Y una lista de colores:
@@ -17,6 +20,9 @@ Y una lista de colores:
 - verde
 - azul
 - marrón
+- rosa
+- violeta
+- naranja
 
 ## ¡Practica!
 
