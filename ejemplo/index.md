@@ -10,7 +10,11 @@ Esto es una lista de números:
 4. Cuatro
 5. cinco
 6. seis
-7. siete
+7. Siete
+8. Diez
+   Hola Josep and company. Saludos desde la WCZGZ24 con Erika
+
+   
 
 
 Y una lista de colores:
@@ -23,6 +27,7 @@ Y una lista de colores:
 - rosa
 - violeta
 - naranja
+- 
 
 ## ¡Practica!
 
