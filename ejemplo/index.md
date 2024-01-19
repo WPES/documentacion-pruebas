@@ -11,8 +11,7 @@ Esto es una lista de números:
 5. cinco
 6. seis
 7. Siete
-8. Diez
-   Hola Josep and company. Saludos desde la WCZGZ24 con Erika
+8. Ocho
 
    
 
