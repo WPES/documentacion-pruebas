@@ -31,3 +31,5 @@ Y una lista de colores:
 ## ¡Practica!
 
 La mejor forma de aprender, es practicar.
+
+Texto añadido sobre las meetups.
